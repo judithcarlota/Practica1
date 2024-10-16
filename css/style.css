@@ -71,7 +71,7 @@ p {
 }
 
 .navbar {
-    background-color: #390303!important;
+    background-color: #820606!important;
 }
 
 .carousel {
@@ -79,18 +79,27 @@ p {
 }
 
 .navbar-expand-lg .navbar-nav .nav-link {
-    color: #a0a0a0;
+    color: #efa3a3;
 }
 
 .navbar-brand {
-    color: #a0a0a0;
+    color: #efa3a3;
 }
 
 .btn:hover {
-    background-color: red;
-    border-color: red;
+    background-color: rgb(227, 52, 87);
+    border-color: rgb(227, 52, 87);
 }
 .btn-outline-success {
-    color: #a0a0a0;
-    --bs-btn-border-color: red;
+    color: #efa3a3;
+    --bs-btn-border-color:rgb(227, 52, 87);
 }
+
+.btn- {
+    color: rgb(227, 52, 87)
+}
+.btn:hover {
+    background-color: rgb(227, 52, 87);
+    border-color: rgb(227, 52, 87);
+}
+.btn-primary
