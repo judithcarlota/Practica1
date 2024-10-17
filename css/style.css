@@ -102,4 +102,13 @@ p {
     background-color: rgb(227, 52, 87);
     border-color: rgb(227, 52, 87);
 }
-.btn-primary
+
+.btn {
+    background-color: #820606;
+    border-color: #820606;
+}
+
+.table {
+    background-color:#820606 !important;
+    color: #820606;
+}
