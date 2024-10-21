@@ -10,6 +10,7 @@ body {
 
 /* Estils per a la navbar */
 nav {
+    position: fixed; 
     background-color: #0a0a0a;
     padding: 15px;
 }
